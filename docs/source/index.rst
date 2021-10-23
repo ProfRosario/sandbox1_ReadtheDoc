@@ -17,7 +17,7 @@ Contents
 --------
 
 .. toctree::
-   :maxdepth: 10
+
    usage
    HowTo
    api
