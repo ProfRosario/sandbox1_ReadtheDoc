@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = 'Lumache'
+project = 'Sandbox1_ReadtheDoc'
 copyright = '2021, Graziella'
 author = 'Graziella'
 
