@@ -1,6 +1,8 @@
 HowTo
 ==========
 
+.. _How to Generate Private and Public SSH Key:
+
 How to Generate Private and Public SSH Key
 -----------------------------------------
 
